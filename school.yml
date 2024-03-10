@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+school:
   message: "Welcome to default school configuration"
   contactDetails:
     name: "Gabriel Dela Pena - Developer"
