@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+account:
+  message: "Welcome to default customer configuration"
+  contactDetails:
+    name: "Gabriel Dela Pena - Developer"
+    email: "gabriel@email.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
