@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-account:
+customer:
   message: "Welcome to default customer configuration"
   contactDetails:
     name: "Gabriel Dela Pena - Developer"
